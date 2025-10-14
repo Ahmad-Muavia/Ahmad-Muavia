@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![Banner](https://i.pinimg.com/originals/e4/26/f7/e426f7d9b43b4b8f0e3b56a2aeb1d62b.gif)
 
 # 🧭 About Me
 **Name:** Muhammad Ahmad Muavia Meo  
