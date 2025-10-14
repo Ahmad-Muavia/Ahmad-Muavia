@@ -23,8 +23,8 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 - [🌐 HTML Project](https://github.com/Ahmad-Muavia/HTML-Projects)  
   A personal project showcasing my work and skills.
 
-- [📊 Data Visualization Project](https://github.com/ahmad26636/Data-Vis-Project)  
-  A project using Python libraries to analyze and visualize data.
+- [📊 Portfolio](https://github.com/Ahmad-Muavia/Portfolio)  
+  A website about me.
 
   ## 📊 GitHub Stats
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=radical)
