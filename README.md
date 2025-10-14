@@ -1,4 +1,5 @@
-![Banner](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+![Banner](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+
 
 # 🧭 About Me
 **Name:** Muhammad Ahmad Muavia Meo  
