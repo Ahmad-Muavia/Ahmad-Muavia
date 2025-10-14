@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/e4/26/f7/e426f7d9b43b4b8f0e3b56a2aeb1d62b.gif)
+![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 # 🧭 About Me
 **Name:** Muhammad Ahmad Muavia Meo  
