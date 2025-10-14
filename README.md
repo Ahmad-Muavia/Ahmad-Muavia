@@ -50,5 +50,12 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 | Course Project | Website | HTML, CSS, JS |
 | Game Project | Simple Tic Tac Toe | C++ |
 
+## 🎯 My Goals
+- [x] Learn C++ Basics  
+- [x] Build my first web project  
+- [ ] Learn React.js  
+- [ ] Get an internship  
+- [ ] Contribute to open source  
+
 
 
