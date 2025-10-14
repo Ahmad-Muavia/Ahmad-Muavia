@@ -8,11 +8,11 @@ I’m a passionate student exploring the world of programming, data, and technol
 I aim to become a skilled web developer and explore AI and cybersecurity in the future.
 
 ## 🛠️ Skills
-- 💻 C++ / Python / Java
+- 💻 C++ / Python
 - 🌐 Web Development (HTML, CSS, JavaScript)
-- 🧠 Data Science (Pandas, NumPy, Matplotlib)
+- 🧠 Data Science 
 - 🧩 Problem Solving
-- 🗄️ Database Management (MySQL)
+- 🗄️ MS-Office
 
 - ## 📂 My GitHub Repositories
 > Here are some of my projects:
