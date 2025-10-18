@@ -3,11 +3,11 @@
 </p>
 
 
-<!-- About Me Section -->
+<!-- About Section -->
 <div align="center">
 
 <h1 style="background-color:#00bfff; color:white; padding:12px; border-radius:10px; width:90%;">
-🧭 About Me
+🧭 About
 </h1>
 
 **Name:** Muhammad Ahmad Muavia Meo  
@@ -60,23 +60,22 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 ---
 
 <!-- GitHub Stats -->
-<div align="center">
 
-<h1 style="background-color:#ff66cc; color:white; padding:12px; border-radius:10px; width:90%;">
+
+<h1 align="center" style="background-color:#ff66cc; color:white; padding:12px; border-radius:10px; width:90%;">
 📊 GitHub Stats
 </h1>
 
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Muavia&layout=compact&theme=radical)
 
-</div>
 
 ---
 
 <!-- Contact -->
-<div align="center">
 
-<h1 style="background-color:#ffa500; color:white; padding:12px; border-radius:10px; width:90%;">
+
+<h1 align="center" style="background-color:#ffa500; color:white; padding:12px; border-radius:10px; width:90%;">
 ✨ Contact Me
 </h1>
 
@@ -84,7 +83,6 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 💼 [LinkedIn](https://www.linkedin.com/feed/)  
 🌍 [Portfolio Website](https://ahmadmuavia.github.io/)
 
-</div>
 
 ---
 
