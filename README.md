@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmad-Muavia/Ahmad-Muavia/main/BANNER.gif" alt="Banner" width="100%">
+</p>
 
 
 # 🧭 About Me
