@@ -4,19 +4,19 @@
 
 
 <!-- ABOUT Section -->
-<div align="center">
 
-<h1 style="background-color:#00bfff; color:white; padding:12px; border-radius:10px; width:90%;">
+
+<h1 align="center" style="background-color:#00bfff; color:white; padding:12px; border-radius:10px; width:90%;">
 🧭 ABOUT
 </h1>
 
-**Name:** Muhammad Ahmad Muavia Meo  
-**University:** University of the Punjab – Department of Data Science  
+**Full Name:**  Muhammad Ahmad Muavia Meo            
+**University:** University of the Punjab – Department of Data Science
 
-I’m a passionate student exploring the world of programming, data, and technology.  
-I aim to become a skilled web developer and explore AI and cybersecurity in the future.
+`I’m a passionate student exploring the world of programming, data, and technology.`  
+`I aim to become a skilled web developer and explore AI and cybersecurity in the future.`
 
-</div>
+
 
 ---
 
@@ -60,24 +60,23 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 ---
 
 <!-- GitHub Repositories Section -->
-<div align="center">
 
-<h1 style="background-color:#00ff99; color:#000; padding:12px; border-radius:10px; width:90%;">
+
+<h1 align="center" style="background-color:#00ff99; color:#000; padding:12px; border-radius:10px; width:90%;">
 📂 My GitHub Repositories
 </h1>
 
-> Here are some of my projects:
+`Here are some of my projects`:
 
 - [📘 Github Practice](https://github.com/Ahmad-Muavia/my-first-repo)  
-  Simple practice of Github for hands-on practice
+> Simple practice of Github for hands-on practice
 
 - [🌐 HTML Project](https://github.com/Ahmad-Muavia/HTML-Projects)  
-  A personal project showcasing my work and skills.
+> A personal project showcasing my work and skills.
 
 - [📊 Portfolio](https://github.com/Ahmad-Muavia/Portfolio)  
-  A website about me.
+> A website about me.
 
-</div>
 
 ---
 
