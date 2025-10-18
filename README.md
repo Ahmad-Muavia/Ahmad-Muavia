@@ -89,9 +89,8 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 ---
 
 <!-- Goals -->
-<div align="center">
 
-<h1 style="background-color:#1e1e1e; color:#00ff99; padding:12px; border-radius:10px; width:90%;">
+<h1 align="center" style="background-color:#1e1e1e; color:#00ff99; padding:12px; border-radius:10px; width:90%;">
 🎯 My Goals
 </h1>
 
@@ -101,4 +100,3 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 - [ ] Get an internship  
 - [ ] Contribute to open source  
 
-</div>
