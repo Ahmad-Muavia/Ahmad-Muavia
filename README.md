@@ -93,17 +93,6 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 
 ---
 
-<!-- Contact -->
-
-
-<h1 align="center" style="background-color:#ffa500; color:white; padding:12px; border-radius:10px; width:90%;">
-✨ Contact Me
-</h1>
-
-📧 [Email Me](mailto:m.ahmad.mm2466@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/feed/)  
-🌍 [Portfolio Website](https://ahmadmuavia.github.io/)
-
 
 ---
 
@@ -119,3 +108,23 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 - [ ] Get an internship  
 - [ ] Contribute to open source  
 
+---
+
+<!-- Contact -->
+<h2 align="center"> Connect With Me </h2>
+
+<div align="center" class="badge-container">
+
+  <a href="mailto:m.ahmad.mm2466@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://ahmadmuavia.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Portfolio%20Website-ffa500?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+
+</div>
