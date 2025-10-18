@@ -3,11 +3,11 @@
 </p>
 
 
-<!-- About Section -->
+<!-- ABOUT Section -->
 <div align="center">
 
 <h1 style="background-color:#00bfff; color:white; padding:12px; border-radius:10px; width:90%;">
-🧭 About
+🧭 ABOUT
 </h1>
 
 **Name:** Muhammad Ahmad Muavia Meo  
