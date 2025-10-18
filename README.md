@@ -1,4 +1,7 @@
-![Banner](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ahmad-Muavia/Ahmad-Muavia/main/banner.gif" alt="Banner" width="100%">
+</p>
+
 
 # 🧭 About Me
 **Name:** Muhammad Ahmad Muavia Meo  
