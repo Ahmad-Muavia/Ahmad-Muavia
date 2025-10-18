@@ -21,19 +21,41 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 ---
 
 <!-- Skills Section -->
-<div align="center">
+<h2 align="center">🛠️ Skills</h2>
 
-<h1 style="background-color:#ffcc00; color:#000; padding:12px; border-radius:10px; width:90%;">
-🛠️ Skills
-</h1>
+<h3>💻 Programming</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-💻 **C++ / Python**  
-🌐 **Web Development (HTML, CSS, JavaScript)**  
-🧠 **Data Science**  
-🧩 **Problem Solving**  
-🗄️ **MS-Office**
+<h3>🌐 Web Development</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-</div>
+<h3>🧠 Data Science</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<h3>🧩 Problem Solving</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</p>
+
+<h3>🗄️ MS-Office</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</p>
+
 
 ---
 
