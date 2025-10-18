@@ -66,8 +66,7 @@ I aim to become a skilled web developer and explore AI and cybersecurity in the 
 📊 GitHub Stats
 </h1>
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Muavia&layout=compact&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Muavia&layout=compact&theme=radical)
 
 
 ---
