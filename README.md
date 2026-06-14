@@ -1,129 +1,103 @@
+<h1 align="center">Hi, I'm Ahmad 👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmad-Muavia/Ahmad-Muavia/main/BANNER.gif" alt="Banner" width="100%">
+  <b>Data Science Student · Full-Stack Developer · ML Enthusiast</b><br>
+  University of the Punjab (PUCIT) — BSc Data Science, Semester 4
 </p>
 
-
-<!-- ABOUT Section -->
-
-
-<h1 align="center" style="background-color:#00bfff; color:white; padding:12px; border-radius:10px; width:90%;">
-🧭 ABOUT
-</h1>
-
-**Full Name:**  Muhammad Ahmad Muavia Meo            
-**University:** University of the Punjab – Department of Data Science
-
-`I’m a passionate student exploring the world of programming, data, and technology.`  
-`I aim to become a skilled web developer and explore AI and cybersecurity in the future.`
-
-
-
----
-
-<!-- Skills Section -->
-<h2 align="center">🛠️ Skills</h2>
-
-<h3>💻 Programming</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-<h3>🌐 Web Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<h3>🧠 Data Science</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-<h3>🧩 Problem Solving</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</p>
-
-<h3>🗄️ MS-Office</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-</p>
-
-
----
-
-<!-- GitHub Repositories Section -->
-
-
-<h1 align="center" style="background-color:#00ff99; color:#000; padding:12px; border-radius:10px; width:90%;">
-📂 My GitHub Repositories
-</h1>
-
-`Here are some of my projects`:
-
-- [📘 Github Practice](https://github.com/Ahmad-Muavia/my-first-repo)  
-> Simple practice of Github for hands-on practice
-
-- [🌐 HTML Project](https://github.com/Ahmad-Muavia/HTML-Projects)  
-> A personal project showcasing my work and skills.
-
-- [📊 Portfolio](https://github.com/Ahmad-Muavia/Portfolio)  
-> A website about me.
-
-
----
-
-<!-- GitHub Stats -->
-
-
-<h1 align="center" style="background-color:#ff66cc; color:white; padding:12px; border-radius:10px; width:90%;">
-📊 GitHub Stats
-</h1>
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Muavia&layout=compact&theme=radical)
-
-
----
-
-
----
-
-<!-- Goals -->
-
-<h1 align="center" style="background-color:#1e1e1e; color:#00ff99; padding:12px; border-radius:10px; width:90%;">
-🎯 My Goals
-</h1>
-
-- [x] Learn C++ Basics  
-- [x] Build my first web project  
-- [ ] Learn React.js  
-- [ ] Get an internship  
-- [ ] Contribute to open source  
-
----
-
-<!-- Contact -->
-<h2 align="center"> Connect With Me </h2>
-
-<div align="center" class="badge-container">
-
-  <a href="mailto:m.ahmad.mm2466@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:m.ahmad.mm2466@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://www.linkedin.com/feed/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/feed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://ahmadmuavia.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌍%20Portfolio%20Website-ffa500?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://ahmadmuavia.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white"/>
   </a>
+</p>
 
-</div>
+---
+
+## About Me
+
+I'm a Data Science student with a strong foundation in algorithms, machine learning, and full-stack development. I enjoy building real-world applications and solving problems at the intersection of data and software engineering.
+
+- 🔭 Currently building **Stellar Slayer** — a full-stack cricket scoring & team management app (React + TypeScript + Supabase)
+- 🌱 Deepening my skills in **Machine Learning**, **SQL**, and **Data Visualization**
+- 🎯 Actively seeking **internship opportunities** in data science or software development
+- 💡 Interested in AI/ML, web development, and data-driven systems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+**Web & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+
+**Data Science & ML**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+---
+
+## 📂 Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [🏏 Stellar Slayer](https://github.com/Ahmad-Muavia/stellar-slayer) | Cricket scoring & team management app with live match tracking, season awards, and player stats | React, TypeScript, Supabase |
+| [🌐 Portfolio Website](https://github.com/Ahmad-Muavia/Portfolio) | Personal portfolio showcasing projects and skills | HTML, CSS, JavaScript |
+| [📄 HTML Projects](https://github.com/Ahmad-Muavia/HTML-Projects) | Collection of front-end mini projects | HTML, CSS |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad-Muavia&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-Muavia&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- [ ] Complete **Stellar Slayer** MVP and deploy it publicly
+- [ ] Build 3+ portfolio projects covering ML, SQL, and dashboarding
+- [ ] Land a **data science or software engineering internship**
+- [ ] Contribute to open source
+- [x] Learn React.js
+- [x] Learn C++ & Data Structures
+- [x] Build first web project
+
+---
+
+<p align="center">
+  <i>Open to internships, collaborations, and interesting problems. Feel free to reach out!</i>
+</p>
